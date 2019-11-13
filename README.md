@@ -1,23 +1,17 @@
 # BEDDER (Devices Manager)
 
-Code of working project.
+## What is Bedder?
 
-# What is Bedder?
+Bedder is a simple demo web application created with NuxtJS. Here you can find lots of examples of latest Vue.js and NuxtJS features as well as other interesting tools.
 
-Bedder is a simple web application to manage devices inside and organization. It is an easy tool to control devices and know where to find them when needed inside a working team.
+## Which technologies are used to build this project?
 
-# Which technologies are used to build this project?
-
-- Nuxt (https://nuxtjs.org/).
+- NuxtJS (https://nuxtjs.org/).
 - Tailwind CSS (https://tailwindcss.com/).
-
-# Release
-
-Soon :)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
